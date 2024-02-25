@@ -47,6 +47,7 @@
     <Compile Include="Basics\Data_Types.cs" />
     <Compile Include="Basics\Functions.cs" />
     <Compile Include="Basics\If_ElseIf_Else.cs" />
+    <Compile Include="Basics\Loops.cs" />
     <Compile Include="Basics\Method_Overloading.cs" />
     <Compile Include="Basics\Out_Keyword.cs" />
     <Compile Include="Basics\Params_Keyword.cs" />
