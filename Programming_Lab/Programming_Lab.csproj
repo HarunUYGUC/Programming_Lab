@@ -48,6 +48,7 @@
     <Compile Include="Basics\If_ElseIf_Else.cs" />
     <Compile Include="Basics\Method_Overloading.cs" />
     <Compile Include="Basics\Out_Keyword.cs" />
+    <Compile Include="Basics\Params_Keyword.cs" />
     <Compile Include="Basics\Ref_Keyword.cs" />
     <Compile Include="Basics\Switch_Case.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
