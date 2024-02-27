@@ -53,6 +53,7 @@
     <Compile Include="Basics\Params_Keyword.cs" />
     <Compile Include="Basics\Ref_Keyword.cs" />
     <Compile Include="Basics\String_Data_Type.cs" />
+    <Compile Include="Basics\String_Methods.cs" />
     <Compile Include="Basics\Switch_Case.cs" />
     <Compile Include="Basics\Two_Dimensional_Arrays.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
