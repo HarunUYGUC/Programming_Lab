@@ -57,6 +57,7 @@
     <Compile Include="Basics\Switch_Case.cs" />
     <Compile Include="Basics\Two_Dimensional_Arrays.cs" />
     <Compile Include="Others\Read_Parse_Math.cs" />
+    <Compile Include="Others\Array_Random.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Basics\Write_Read.cs" />
   </ItemGroup>
