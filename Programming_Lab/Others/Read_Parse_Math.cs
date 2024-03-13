@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Programming_Lab.Others
 {
-    internal class Write_Parse_Math
+    internal class Read_Parse_Math
     {
         static void Main(string[] args)
         {
