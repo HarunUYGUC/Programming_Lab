@@ -18,9 +18,7 @@ namespace Programming_Lab.Others
         static void diziEkranaYaz(int[] arr)
         {
             for (int i = 0; i < arr.Length; i++)
-            {
                 Console.Write(arr[i] + ", ");
-            }
         }
 
         static int fak_ite(int n)
@@ -28,9 +26,7 @@ namespace Programming_Lab.Others
             int f = 1;
 
             for (int i = 1; i <= n; i++)
-            {
                 f = f * i;
-            }
 
             return f;
         }
@@ -41,10 +37,28 @@ namespace Programming_Lab.Others
             return n * fak_rec(n - 1);
         }
 
+        // Iterative Fibonacci için başka yöntem.
+        static int fib(int x)
+        {
+            int a = 1, b = 1, top = 0, adet = 2;
+
+            if (x == 0) return 0;
+
+            while (adet < x)
+            {
+                top = a + b;
+                a = b;
+                b = top;
+                adet++;
+            }
+
+            return b;
+        }
+
         static int fib_ite(int n)
         {
-            if (n == 1) return 0;
-            else if (n == 2) return 1;
+            if (n == 0) return 0;
+            else if (n == 1 || n == 2) return 1;
             else
             {
                 int a = 0, b = 1, temp = 0;
@@ -60,11 +74,10 @@ namespace Programming_Lab.Others
             }
         }
 
-        // Hatalı!!! => 1 önceki sonucu veriyor.
         static int fib_rec(int n)
         {
-            if (n == 1) return 0;
-            else if (n == 2) return 1;
+            if (n == 0) return 0;
+            else if (n == 1) return 1;
             else return fib_rec(n - 1) + fib_rec(n - 2);
         }
 
@@ -73,9 +86,7 @@ namespace Programming_Lab.Others
             int f = 1;
 
             for (int i = 1; i <= n; i++)
-            {
-                f = f * x;
-            }
+                f *= x;
 
             return f;
         }
@@ -110,6 +121,7 @@ namespace Programming_Lab.Others
 
             Console.Write("Hesaplanmasını istediğiniz fibonacci: ");
             n = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(n + ". fibonacci değeri, diğer ite yöntemi = " + fib(n));
             Console.WriteLine(n + ". fibonacci değeri, ite = " + fib_ite(n));
             Console.WriteLine(n + ". fibonacci değeri, rec = " + fib_rec(n));
 
