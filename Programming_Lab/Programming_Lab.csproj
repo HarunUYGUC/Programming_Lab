@@ -58,6 +58,7 @@
     <Compile Include="Basics\Two_Dimensional_Arrays.cs" />
     <Compile Include="Others\Array_List.cs" />
     <Compile Include="Others\Dictionaryy.cs" />
+    <Compile Include="Others\Dictionaryy_Function.cs" />
     <Compile Include="Others\Randoms.cs" />
     <Compile Include="Others\Strings.cs" />
     <Compile Include="Searching Algorithms\Binary_Search.cs" />
