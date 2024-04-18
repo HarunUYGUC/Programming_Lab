@@ -57,6 +57,7 @@
     <Compile Include="Basics\Switch_Case.cs" />
     <Compile Include="Basics\Two_Dimensional_Arrays.cs" />
     <Compile Include="Others\Array_List.cs" />
+    <Compile Include="Others\Büyük_Küçük_Basamaklar.cs" />
     <Compile Include="Others\Dictionaryy.cs" />
     <Compile Include="Others\Dictionaryy_Function.cs" />
     <Compile Include="Others\n_inci_Fib_Terim.cs" />
