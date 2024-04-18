@@ -61,6 +61,7 @@
     <Compile Include="Others\Dictionaryy_Function.cs" />
     <Compile Include="Others\n_inci_Fib_Terim.cs" />
     <Compile Include="Others\Randoms.cs" />
+    <Compile Include="Others\Random_Dizi_Sirala.cs" />
     <Compile Include="Others\Strings.cs" />
     <Compile Include="Searching Algorithms\Binary_Search.cs" />
     <Compile Include="Searching Algorithms\Lineer_Search.cs" />
