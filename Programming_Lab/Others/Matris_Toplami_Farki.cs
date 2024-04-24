@@ -19,7 +19,7 @@ namespace Programming_Lab.Others
 
 
             Console.WriteLine("Dizinin toplam kapasitesi = {0}", A.Length);
-            Console.WriteLine("Dizinin rank = {0}", A.Rank);
+            Console.WriteLine("Dizinin rankı (boyutu) = {0}", A.Rank);
             Console.WriteLine("Dizinin 1. boyutunun kapasitesi = {0} | 2. boyutunun kapasitesi = {1}", A.GetLength(0), A.GetLength(1)); // 4 | 5, boyutu verir.
             Console.WriteLine("Dizinin 1. boyutunun kapasitesi = {0} | 2. boyutunun kapasitesi = {1}", A.GetUpperBound(0), A.GetUpperBound(1)); // 3 | 4, yani son indeksi verir.
 
