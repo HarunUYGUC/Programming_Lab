@@ -60,6 +60,7 @@
     <Compile Include="Others\Büyük_Küçük_Basamaklar.cs" />
     <Compile Include="Others\Dictionaryy.cs" />
     <Compile Include="Others\Dictionaryy_Function.cs" />
+    <Compile Include="Others\Matrisin_Transpozu.cs" />
     <Compile Include="Others\Matris_Carpimi.cs" />
     <Compile Include="Others\Matris_Toplami_Farki.cs" />
     <Compile Include="Others\n_inci_Fib_Terim.cs" />
