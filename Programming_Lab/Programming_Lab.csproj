@@ -66,6 +66,8 @@
     <Compile Include="Others\n_inci_Fib_Terim.cs" />
     <Compile Include="Others\Randoms.cs" />
     <Compile Include="Others\Random_Dizi_Sirala.cs" />
+    <Compile Include="Others\Matrisin_Transpozu_Fonk.cs" />
+    <Compile Include="Others\Guzel_Algoritma_Sorusu.cs" />
     <Compile Include="Others\Strings.cs" />
     <Compile Include="Searching Algorithms\Binary_Search.cs" />
     <Compile Include="Searching Algorithms\Lineer_Search.cs" />
@@ -81,6 +83,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Others\Güzel Algoritma Sorusu.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
