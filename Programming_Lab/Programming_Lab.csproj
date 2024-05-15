@@ -71,6 +71,7 @@
     <Compile Include="Others\Matrisin_Transpozu_Fonk.cs" />
     <Compile Include="Others\Guzel_Algoritma_Sorusu.cs" />
     <Compile Include="Others\Strings.cs" />
+    <Compile Include="Others\String_Methods.cs" />
     <Compile Include="Searching Algorithms\Binary_Search.cs" />
     <Compile Include="Searching Algorithms\Lineer_Search.cs" />
     <Compile Include="Sorting Algorithms\Bubble_Sort.cs" />
