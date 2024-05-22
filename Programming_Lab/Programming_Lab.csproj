@@ -58,6 +58,7 @@
     <Compile Include="Basics\Two_Dimensional_Arrays.cs" />
     <Compile Include="Others\Array_List.cs" />
     <Compile Include="Others\Büyük_Küçük_Basamaklar.cs" />
+    <Compile Include="Others\Etkinlik_Planlama_Programi.cs" />
     <Compile Include="Others\String_Methods_2.cs" />
     <Compile Include="Others\Matrisin_Determinanti.cs" />
     <Compile Include="Others\Sekilli_Kare_Matris.cs" />
