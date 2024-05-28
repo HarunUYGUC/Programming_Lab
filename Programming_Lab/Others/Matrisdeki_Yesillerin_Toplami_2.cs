@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Programming_Lab.Others
 {
-    internal class Guzel_Algoritma_Sorusu_2
+    internal class Matrisdeki_Yesillerin_Toplami_2
     {
         static int yesilAlanToplami(int[,] dizi)
         {
