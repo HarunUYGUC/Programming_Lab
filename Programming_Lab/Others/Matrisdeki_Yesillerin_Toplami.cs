@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Programming_Lab.Others
 {
-    internal class Guzel_Algoritma_Sorusu
+    internal class Matrisdeki_Yesillerin_Toplami
     {
         // Dizi oluşturur.
         static int[,] olustur(int n)

@@ -74,7 +74,7 @@
     <Compile Include="Others\Randoms.cs" />
     <Compile Include="Others\Random_Dizi_Sirala.cs" />
     <Compile Include="Others\Matrisin_Transpozu_Fonk.cs" />
-    <Compile Include="Others\Guzel_Algoritma_Sorusu.cs" />
+    <Compile Include="Others\Matrisdeki_Yesillerin_Toplami.cs" />
     <Compile Include="Others\Strings.cs" />
     <Compile Include="Others\String_Methods.cs" />
     <Compile Include="Searching Algorithms\Binary_Search.cs" />
@@ -95,7 +95,7 @@
   <ItemGroup>
     <Content Include="Others\Denklemin_Parcalarini_Elde_Et.png" />
     <Content Include="Others\Guzel_Algoritma_Sorusu_2.png" />
-    <Content Include="Others\Güzel Algoritma Sorusu.jpg" />
+    <Content Include="Others\Matrisdeki_Yesillerin_Toplami.jpg" />
     <Content Include="Others\Şekilli Kare Matris.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
