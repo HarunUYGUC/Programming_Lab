@@ -58,6 +58,7 @@
     <Compile Include="Basics\Two_Dimensional_Arrays.cs" />
     <Compile Include="Others\Array_List.cs" />
     <Compile Include="Others\Büyük_Küçük_Basamaklar.cs" />
+    <Compile Include="Others\Denklem_Parcalari_ile_Sonuc.cs" />
     <Compile Include="Others\Denklemin_Parcalarini_Elde_Et.cs" />
     <Compile Include="Others\Matrisdeki_Yesillerin_Toplami_2.cs" />
     <Compile Include="Others\Para_Degistirme_Makinesi.cs" />
