@@ -95,6 +95,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Others\Denklemin_Parcalarini_Elde_Et.png" />
+    <Content Include="Others\Denklem_Parcalari_ile_Sonuc.txt" />
     <Content Include="Others\Matrisdeki_Yesillerin_Toplami_2.png" />
     <Content Include="Others\Matrisdeki_Yesillerin_Toplami.jpg" />
     <Content Include="Others\Şekilli Kare Matris.png" />
