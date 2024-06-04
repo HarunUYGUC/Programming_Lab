@@ -99,7 +99,7 @@
     <Content Include="Others\Denklem_Parcalari_ile_Sonuc.txt" />
     <Content Include="Others\Matrisdeki_Yesillerin_Toplami_2.png" />
     <Content Include="Others\Matrisdeki_Yesillerin_Toplami.jpg" />
-    <Content Include="Others\Şekilli Kare Matris.png" />
+    <Content Include="Others\Sekilli_Kare_Matris.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
