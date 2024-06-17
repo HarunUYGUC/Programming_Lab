@@ -1,5 +1,4 @@
-﻿/*
-using System;
+﻿using System;
 
 namespace Programming_Lab.Sorting_Algorithms
 {
@@ -76,4 +75,3 @@ namespace Programming_Lab.Sorting_Algorithms
         }
     }
 }
-*/
