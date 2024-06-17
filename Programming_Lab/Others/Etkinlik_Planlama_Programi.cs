@@ -1,5 +1,4 @@
-﻿/*
-using System; // Temel kodlar için gerekli kütüphane.
+﻿using System; // Temel kodlar için gerekli kütüphane.
 using System.Collections.Generic; // Liste kullanımı için gerekli kütüphane.
 using System.Linq;
 using System.Text;
@@ -85,4 +84,3 @@ namespace Programming_Lab.Others
         }
     }
 }
-*/

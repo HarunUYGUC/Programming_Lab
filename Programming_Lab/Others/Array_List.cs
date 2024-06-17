@@ -1,5 +1,4 @@
-﻿/*
-using System; // Temel işlemler için gerekli.
+﻿using System; // Temel işlemler için gerekli.
 using System.Collections; // ArrayList işlemleri için gerekli.
 using System.Collections.Generic;
 using System.Linq;
@@ -55,4 +54,3 @@ namespace Programming_Lab.Others
         }
     }
 }
-*/
